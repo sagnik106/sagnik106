@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World! I am Sagnik Sarkar
 
 <a href="https://www.linkedin.com/in/lesagniksarkar/">
   <img align="left" alt="Sagnik's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,9 +16,8 @@
   <img align="left" alt="Sagnik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
-<img align="right" width=40% alt="GIF" src="https://cdn.dribbble.com/users/214929/screenshots/4967879/ai-loader-opt.gif" />
+<img align="right" width=40% alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### I am Sagnik Sarkar
 - Interested in Explainable AI, Federated Learning, Reinforcement Learning, Artificial Intelligence, Computer Vision, Deep Learning.
 - An Artificial Intelligence Graduate Student at Northwestern University. 
 - Currently working on Explainable AI and Federated Learning.
